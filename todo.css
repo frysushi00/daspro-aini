@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(173, 168, 162);
+}
+.container{
+    color: rgb(60, 53, 45);
+    text-align: center;
+    word-spacing: normal;
+}
+button{
+    box-shadow: 100px;
+    column-gap: 2px;
+    color: rgb(99, 93, 82);
+}
